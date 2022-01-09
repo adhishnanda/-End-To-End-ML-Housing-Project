@@ -1,4 +1,4 @@
-# -End-To-End-ML-Housing-Project
+# California Housing Project End-t0-End Implementation
 Welcome to the Machine Learning Housing Corporation! Your first task is to
 use California census data to build a model of housing prices in the state. This
 data includes metrics such as the population, median income, and median
